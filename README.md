@@ -36,7 +36,7 @@ Our experimental aparatus allowed us to aquire decent data, but this data wasn't
 
 Our main issue of lessening noise in our data is solved with the digital data smoohing algorithm devised by Savitzky and Golay. Savitzky-Golay filters is a least-squares polynomial smoothing essentialy digital low pass filters and were originally developed for smoohing data from chemical specrum analyzers... somewhate related to this experiment...
 
-Least-squares polynomial smoothing is not compuationally complex and is carried out by convolution of data points with properly choosen sets of integers. A great overview and mathematical explaination can be found in the paper: [What is a Savitzky-Golay Filter?](https://inst.cs.berkeley.edu/~ee123/fa12/docs/SGFilter.pdf)
+Least-squares polynomial smoothing is not computationally complex and is carried out by convolution of data points with properly choosen sets of integers. A great overview and mathematical explaination can be found in the paper: [What is a Savitzky-Golay Filter?](https://inst.cs.berkeley.edu/~ee123/fa12/docs/SGFilter.pdf)
 
 For our purposes we used the [SciPy Cookbook Savitzky_Golay Filter](https://scipy-cookbook.readthedocs.io/items/SavitzkyGolay.html) for our smoothing filter and [PeakUtils](https://peakutils.readthedocs.io/en/latest/tutorial_a.html) to find our peaks.
 
