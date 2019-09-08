@@ -10,13 +10,13 @@ We observe the Balmer series (Electron transitions of n = 3 -> 2, 4 -> 2 , ... ,
 
 
 
-![expDiagram.png](https://github.com/JackRoten/HD_shift_Dutt_Roten/blob/JackBranch/expDiagram.png)
+![expDiagram.png](https://github.com/JackRoten/HD_shift_Dutt_Roten/blob/JackBranch/figures/expDiagram.png)
 
 Through tunning the angle of the diffraction graiting we are able to capture different wavelengths of light and notice the subtle shift in wavelength that comes from Dueterium's single nucleon heavier nucleus
 
 For each balmer series transition we notice two peaks, one tall, higher intensity peak and another shorter, lower intensity, peak. The former is Dueterium with it electron being bound closer to the heavier nucleus, shifting the wavelength emitted as well as increasing the likelyhood of being exited; in turn a higher number of photon emmisions.
 
-![410_Peak_shift_4.png](https://github.com/JackRoten/HD_shift_Dutt_Roten/blob/JackBranch/410_Peak_shift_4.png)
+![410_Peak_shift_4.png](https://github.com/JackRoten/HD_shift_Dutt_Roten/blob/JackBranch/figures/410_Peak_shift_4.png)
 
 The figure above depics the signal in volts as a function of time with a sweeping speed of 5 angstoms per second. The cyan line represents the raw data and the red line is the transformed filtered data, which allows us to easily find the peaks.
 
