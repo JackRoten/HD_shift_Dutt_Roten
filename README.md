@@ -32,7 +32,7 @@ Transition | Measured shift(Ang)  | Theoretical shift(Ang) | % Error |
 |8 -> 2  | 1.062 +/- 0.011&  | 1.059  | 0.3 |
 
 ## Data Analysis
-Our experimental aparatus allowed us to aquire decent data. Bu even this data wasn't safe from noise. as we sweeped over shorter wavelenghs (higher frequency and transition energy) they probabilty of an electron being driven into this state and emitting a phton was lower, causing the signal amplitude to be shorter. And along with given line noise and other potential background interference, peak signal in the 7 -> 2, and 8 -> 2 transitions were almost indistinguishable from the line noise. 
+Our experimental aparatus allowed us to aquire decent data, but this data wasn't safe from noise. as we sweeped over shorter wavelenghs (higher frequency and transition energy) they probabilty of an electron being driven into this state and emitting a phton was lower, causing the signal amplitude to be shorter. And along with given line noise and other potential background interference, peak signal in the 7 -> 2, and 8 -> 2 transitions were almost indistinguishable from the line noise. 
 
 Our main issue of lessening noise in our data is solved with the digital data smoohing algorithm devised by Savitzky and Golay. Savitzky-Golay filters is a least-squares polynomial smoothing essentialy digital low pass filters and were originally developed for smoohing data from chemical specrum analyzers... somewhate related to this experiment...
 
