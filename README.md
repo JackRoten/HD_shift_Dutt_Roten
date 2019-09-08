@@ -1,8 +1,8 @@
 # HD_shift_Dutt_Roten
 
 ## Experimental Overview
-Created by Baskar Dutt and Jack Roten for UCSB Physics lab course.
-UCSB 128AL lab on Hydrogen and Deuterium Isotope Shifts
+Created by Baskar Dutt and Jack Roten for UCSB Physics 128AL lab course.
+Lab on Hydrogen and Deuterium Isotope Shifts
 
 The Balmer Series energy spectrum of an atom, or the wavelenght of most intensly emmited visible spectrum photons, is related to the mass of the nucleus. 
 
